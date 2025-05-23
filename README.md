@@ -40,10 +40,10 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/nash-claracay/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="nashclaracay28@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
