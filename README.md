@@ -10,8 +10,6 @@
 ### 🌱 About Me
 
 - 🎯 I'm currently focused on learning **Full Stack Web Development**
-- 🔨 Working on my **Eco-advocacy App** and other passion projects
-- 🌍 I aim to build tools that promote sustainability and community
 - 📚 Interested in **psychology**, self-development, and helping others grow
 - 🧠 Currently leveling up in **Django**, **React**, and habit-building
 
@@ -33,8 +31,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NashClaracay&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NashClaracay&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nashiiee&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nashiiee&theme=tokyonight" />
 </p>
 
 ---
