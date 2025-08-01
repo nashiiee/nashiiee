@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nash Claracay</h1>
+<h1 align="center">Hi, I'm Nash Claracay</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate about Growth, Integrity, and Purpose</h3>
 
 <p align="center">
@@ -9,9 +9,9 @@
 
 ### 🌱 About Me
 
-- 🎯 I'm currently focused on learning **Full Stack Web Development**
-- 📚 Interested in **psychology**, self-development, and helping others grow
-- 🧠 Currently leveling up in **Django**, **React**, and habit-building
+- I'm currently focused on learning **Full Stack Web Development**
+- Interested in **psychology**, self-development, and helping others grow
+- Currently leveling up in **Django**, **React**, and habit-building
 
 ---
 
